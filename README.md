@@ -1,6 +1,6 @@
 # m-portal-aws-s3-private-bucket
 This Terraform module facilitates the creation of an S3 bucket on AWS with customizable policies, storage transitions, and more. 
-**For additional resources, examples, and community engagement**, check out the portal [Cloud Collab Hub](https://cloudcollab.com) :cloud:.
+**For additional resources, examples, and community engagement**, check out the portal [Cloudymos](https://cloudymos.com) :cloud:.
 ## Usage
 
 ```
